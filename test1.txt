@@ -3,3 +3,4 @@ ID: 18-38671-3
 University: AIUB
 Semester: 11th
 CGPA: 3.91
+Age: 24
