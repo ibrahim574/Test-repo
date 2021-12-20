@@ -2,3 +2,4 @@ Name: Md. Ibrhaim Bahadur
 ID: 18-38671-3
 University: AIUB
 Semester: 11th
+CGPA: 3.91
